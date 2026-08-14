@@ -1,8 +1,6 @@
 # company-interview-dataset
 I was required to present an analysis of Company Registration data, along with turnover and business type
-The data is based upon Open Source information. It has been anonymised and manipulated for the purposes of this exercise. Fictional turnover and Trade Type data has been added. The dataset is not representative of any real life Company, and no attempt should be made to identify real businesses through it. 
-
-All the necessary data is contained in the Excel Workbook. You are required to use Python.
+The data is based upon Open Source information. It has been anonymised and manipulated for the purposes of this exercise. Fictional turnover and Trade Type data has been added. The dataset is not representative of any real life Company, and no attempt should be made to identify real businesses through it.
 
 1.	Which sector has the highest average turnover per company, and how does
 this compare to the sector with the most companies registered?
